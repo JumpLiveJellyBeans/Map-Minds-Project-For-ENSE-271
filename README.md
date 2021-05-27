@@ -1,8 +1,14 @@
 # Map-Minds-Project-For-ENSE-271
+
 This is the new page for Map Minds which include original files and also any new files that will come
-# All FILES WILL BE IN THE WIKI PAGE
-# All FILES WILL BE IN THE WIKI PAGE
-# All FILES WILL BE IN THE WIKI PAGE
+
+# Activity 1 
+![Affinity Diagram](https://user-images.githubusercontent.com/84090704/119781080-d21e5e00-be87-11eb-9647-fd149fd12ed6.PNG)
+![Empathy Map](https://user-images.githubusercontent.com/84090704/119781118-dea2b680-be87-11eb-80d8-4f7cdb9072f6.PNG)
+[Ense 271 Activity 1 Summary.docx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551816/Ense.271.Activity.1.Summary.docx)
+[Jump and jive jelly beans.pptx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551819/Jump.and.jive.jelly.beans.pptx)
+[Map_minds Stories on Board.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551829/Map_minds.Stories.on.Board.pdf)
+
 
 # List your team members here
 
@@ -46,5 +52,8 @@ North star - Gina MacPherson.
 Carryover Customer - Professors.
 
 Gina is the one to collect graduate attributes from professors. She might be concerned if the data forward to her are not accurate. Also, she might be concerned if the data are not collected at all by the new professor.  By making this document clear to the user (The Professor) that would make her job easy. She may be able to collect the correct data from professors with accuracy. Professors on the other hand may use this app to check the graduate attributes and collect the classes graduate attributes base on what is indicated on each class’s required GA.
+# Activity 1 
+
+
 
 
