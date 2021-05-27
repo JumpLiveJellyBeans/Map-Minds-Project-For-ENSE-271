@@ -1,6 +1,13 @@
 # Map-Minds-Project-For-ENSE-271
 
 This is the new page for Map Minds which include original files and also any new files that will come
+# Activity 2
+![Affinity Diagram Activity 2](https://user-images.githubusercontent.com/84090704/119782099-021a3100-be89-11eb-94e6-56e381c1cc10.PNG)
+____________________________________________________________________________________________________________________________________________
+[Map Minds Check Point 2.pptx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551873/Map.Minds.Check.Point.2.pptx)
+____________________________________________________________________________________________________________________________________________
+[Project Outline.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551875/Project.Outline.pdf)
+
 
 # Activity 1 
 ![Affinity Diagram](https://user-images.githubusercontent.com/84090704/119781080-d21e5e00-be87-11eb-9647-fd149fd12ed6.PNG)
