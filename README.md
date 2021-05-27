@@ -7,6 +7,9 @@ ________________________________________________________________________________
 [Map Minds Check Point 2.pptx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551873/Map.Minds.Check.Point.2.pptx)
 ____________________________________________________________________________________________________________________________________________
 [Project Outline.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551875/Project.Outline.pdf)
+____________________________________________________________________________________________________________________________________________
+[Design Idea 2.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551882/Design.Idea.2.pdf)
+____________________________________________________________________________________________________________________________________________
 
 
 # Activity 1 
