@@ -13,6 +13,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________
 [Map_minds Stories on Board.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551829/Map_minds.Stories.on.Board.pdf)
 
+#WIKI
 
 # List your team members here
 
