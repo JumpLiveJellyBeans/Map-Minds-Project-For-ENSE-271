@@ -11,17 +11,12 @@ Kushagr Bhatnagar
 
 Yi Xu
 
-GitHub[edit]
-Provide a link to your team's GitHub here
-
-https://github.com/JumpLiveJellyBeans/ENSE-271-Project
-
-name="toc-3">User Story Map[edit]
+# User Story Map
 Provide a link to your team's StoriesOnBoard User Story Map here
 
 Our link is ( https://landofooo.storiesonboard.com/m/map-minds )
 
-Business need/opportunity[edit]
+# Business need/opportunity
 The accreditation in excel format is very concerning. The accreditation team at University of Regina Engineering department want the format to be changed into a simple technological format whereby the new professor could be able to perform with ease.  It has been a long time since this document has been kept in the excel format. Some professors get confused when accredited classes because the information is so condensed. Our team has taken this opportunity to transform this accreditation excel format into a simple and easy use document. We want to break it down into filter it by class name, semester and GA. We also want to put the graduate attributes description into the attribute section so that the professor can go on it and review the graduate attribute. If we have enough time, we could be able to add a simple form that can be used by the professor to submit the class's graduate attributes.
 
 The following is how we want to map our apps.
@@ -43,13 +38,10 @@ Goal Link the indicators to the filter, most likely would be MVP 4 (The North St
 Styling (Simple with white and grey, green table, colors will pop out more)
 
 
-Northstar & Carryover Customers[edit]
+# Northstar & Carryover Customers
 North star - Gina MacPherson.
 Carryover Customer - Professors.
 
 Gina is the one to collect graduate attributes from professors. She might be concerned if the data forward to her are not accurate. Also, she might be concerned if the data are not collected at all by the new professor.  By making this document clear to the user (The Professor) that would make her job easy. She may be able to collect the correct data from professors with accuracy. Professors on the other hand may use this app to check the graduate attributes and collect the classes graduate attributes base on what is indicated on each class’s required GA.
-
-Project documentation[edit]
-Provide GitHub links to all project documentation here. This may seem like duplicate work but it may help me grade which is to your team's benefit (make it easy for me to find things so I can focus on the content and giving high grades!)
 
 
