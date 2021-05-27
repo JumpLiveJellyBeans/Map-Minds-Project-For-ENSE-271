@@ -67,7 +67,6 @@ North star - Gina MacPherson.
 Carryover Customer - Professors.
 
 Gina is the one to collect graduate attributes from professors. She might be concerned if the data forward to her are not accurate. Also, she might be concerned if the data are not collected at all by the new professor.  By making this document clear to the user (The Professor) that would make her job easy. She may be able to collect the correct data from professors with accuracy. Professors on the other hand may use this app to check the graduate attributes and collect the classes graduate attributes base on what is indicated on each class’s required GA.
-# Activity 1 
 
 
 
