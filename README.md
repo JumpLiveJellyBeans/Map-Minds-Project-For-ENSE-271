@@ -4,10 +4,14 @@ This is the new page for Map Minds which include original files and also any new
 
 # Activity 1 
 ![Affinity Diagram](https://user-images.githubusercontent.com/84090704/119781080-d21e5e00-be87-11eb-9647-fd149fd12ed6.PNG)
+____________________________________________________________________________________________________________________________________________
 ![Empathy Map](https://user-images.githubusercontent.com/84090704/119781118-dea2b680-be87-11eb-80d8-4f7cdb9072f6.PNG)
-![Ense 271 Activity 1 Summary.docx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551816/Ense.271.Activity.1.Summary.docx)
-![Jump and jive jelly beans.pptx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551819/Jump.and.jive.jelly.beans.pptx)
-![Map_minds Stories on Board.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551829/Map_minds.Stories.on.Board.pdf)
+____________________________________________________________________________________________________________________________________________
+[Ense 271 Activity 1 Summary.docx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551816/Ense.271.Activity.1.Summary.docx)
+____________________________________________________________________________________________________________________________________________
+[Jump and jive jelly beans.pptx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551819/Jump.and.jive.jelly.beans.pptx)
+____________________________________________________________________________________________________________________________________________
+[Map_minds Stories on Board.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551829/Map_minds.Stories.on.Board.pdf)
 
 
 # List your team members here
