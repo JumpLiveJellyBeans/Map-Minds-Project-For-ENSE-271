@@ -1,5 +1,8 @@
 # Map-Minds-Project-For-ENSE-271
 This is the new page for Map Minds which include original files and also any new files that will come
+# All FILES WILL BE IN THE WIKI PAGE
+# All FILES WILL BE IN THE WIKI PAGE
+# All FILES WILL BE IN THE WIKI PAGE
 Members[edit]
 # List your team members here
 
