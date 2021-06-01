@@ -1,6 +1,20 @@
 # Map-Minds-Project-For-ENSE-271
 
 This is the new page for Map Minds which include original files and also any new files that will come
+# Activity 3
+
+
+____________________________________________________________________________________________________________________________________________
+[Customer Summary.docx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581061/Customer.Summary.docx)
+____________________________________________________________________________________________________________________________________________
+[Map minds Checkpoint 3.pptx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581060/Map.minds.Checkpoint.3.pptx)
+____________________________________________________________________________________________________________________________________________
+[Design principles.docx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581058/Design.principles.docx)
+____________________________________________________________________________________________________________________________________________
+![Progress map](https://user-images.githubusercontent.com/84090704/120402180-c951e000-c2fe-11eb-83bb-249ea280d379.JPG)
+____________________________________________________________________________________________________________________________________________
+![USM](https://user-images.githubusercontent.com/84090704/120402154-b8a16a00-c2fe-11eb-9308-42d4ce25d72b.JPG)
+
 # Activity 2
 ![Affinity Diagram Activity 2](https://user-images.githubusercontent.com/84090704/119782099-021a3100-be89-11eb-94e6-56e381c1cc10.PNG)
 ____________________________________________________________________________________________________________________________________________
