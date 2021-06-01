@@ -3,7 +3,9 @@
 This is the new page for Map Minds which include original files and also any new files that will come
 # Activity 3
 
-
+[Mobile Interface.zip](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581067/Mobile.Interface.zip)
+____________________________________________________________________________________________________________________________________________
+[Desktop Interface.zip](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581066/Desktop.Interface.zip)
 ____________________________________________________________________________________________________________________________________________
 [Customer Summary.docx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581061/Customer.Summary.docx)
 ____________________________________________________________________________________________________________________________________________
