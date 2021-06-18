@@ -1,43 +1,21 @@
 # Map-Minds-Project-For-ENSE-271
 
 This is the new page for Map Minds which include original files and also any new files that will come
-# Activity 3
 
-[Mobile Interface.zip](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581067/Mobile.Interface.zip)
-____________________________________________________________________________________________________________________________________________
-[Desktop Interface.zip](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581066/Desktop.Interface.zip)
-____________________________________________________________________________________________________________________________________________
-[Customer Summary.docx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581061/Customer.Summary.docx)
-____________________________________________________________________________________________________________________________________________
-[Map minds Checkpoint 3.pptx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581060/Map.minds.Checkpoint.3.pptx)
-____________________________________________________________________________________________________________________________________________
-[Design principles.docx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6581058/Design.principles.docx)
-____________________________________________________________________________________________________________________________________________
-![Progress map](https://user-images.githubusercontent.com/84090704/120402180-c951e000-c2fe-11eb-83bb-249ea280d379.JPG)
-____________________________________________________________________________________________________________________________________________
-![USM](https://user-images.githubusercontent.com/84090704/120402154-b8a16a00-c2fe-11eb-9308-42d4ce25d72b.JPG)
+# Activity 1
+[Activity 1.zip](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6678194/Activity.1.zip)
 
 # Activity 2
-![Affinity Diagram Activity 2](https://user-images.githubusercontent.com/84090704/119782099-021a3100-be89-11eb-94e6-56e381c1cc10.PNG)
-____________________________________________________________________________________________________________________________________________
-[Map Minds Check Point 2.pptx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551873/Map.Minds.Check.Point.2.pptx)
-____________________________________________________________________________________________________________________________________________
-[Project Outline.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551875/Project.Outline.pdf)
-____________________________________________________________________________________________________________________________________________
-[Design Idea 2.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551882/Design.Idea.2.pdf)
-____________________________________________________________________________________________________________________________________________
+[Activity 2.zip](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6678191/Activity.2.zip)
+
+# Activity 3[Activity 2.zip]
+[Activity 3.zip](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6678184/Activity.3.zip)
+
+# Activity 4
 
 
-# Activity 1 
-![Affinity Diagram](https://user-images.githubusercontent.com/84090704/119781080-d21e5e00-be87-11eb-9647-fd149fd12ed6.PNG)
-____________________________________________________________________________________________________________________________________________
-![Empathy Map](https://user-images.githubusercontent.com/84090704/119781118-dea2b680-be87-11eb-80d8-4f7cdb9072f6.PNG)
-____________________________________________________________________________________________________________________________________________
-[Ense 271 Activity 1 Summary.docx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551816/Ense.271.Activity.1.Summary.docx)
-____________________________________________________________________________________________________________________________________________
-[Jump and jive jelly beans.pptx](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551819/Jump.and.jive.jelly.beans.pptx)
-____________________________________________________________________________________________________________________________________________
-[Map_minds Stories on Board.pdf](https://github.com/JumpLiveJellyBeans/Map-Minds-Project-For-ENSE-271/files/6551829/Map_minds.Stories.on.Board.pdf)
+
+
 
 # WIKI
 
